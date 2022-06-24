@@ -1,0 +1,121 @@
+body, html {
+    height: 100%;
+    margin: 0px;
+}
+
+body {
+    background-color: green;
+}
+
+nav ul {
+    margin: 0px;
+    list-style-type: none;
+    width: 100%;
+    padding: 2px;
+    background-color: darkslategray;
+}
+
+nav li {
+    display: inline;
+    margin: 100px;
+    padding-top: 100px;
+}
+
+nav {
+    display: block;
+    color: white;
+}
+
+nav a {
+    text-decoration: underline black;
+    color: grey;
+}
+
+nav a:hover {
+    color: whitesmoke;
+}
+
+.name-text {
+    color: black;
+    text-align: center;
+}
+
+main {
+    width: 90%;
+    float: left;
+    height: 100%;
+    padding-left: 20px;
+    padding-top: 100px;
+}
+
+main {
+    display: flex;
+}
+
+#Hawaii {
+    height: auto; 
+    width: auto; 
+    max-width: 300px; 
+    max-height: 300px;
+}
+
+#Nashville {
+    height: auto; 
+    width: auto; 
+    max-width: 300px; 
+    max-height: 300px;
+}
+
+#side {
+    margin-left: 20px;
+    margin-right: 0;
+}
+
+#profile-image {
+    height: auto; 
+    width: auto; 
+    max-width: 300px; 
+    max-height: 300px;
+}
+
+#profile {
+    text-align: center;
+} 
+
+.side-articles {
+    background-color: lightgray;
+    text-align: center;
+} 
+
+.main-articles {
+    background-color: darkslategray;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
